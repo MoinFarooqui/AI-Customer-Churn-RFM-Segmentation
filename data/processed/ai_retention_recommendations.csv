@@ -1,0 +1,111 @@
+customer_id,recency,frequency,monetary,churn_probability,churn_risk,cluster,ai_recommendation
+1078,193,11,24693,0.6075430862582004,High Risk,1,"**Risk Assessment:**
+Customer 1078 is a high-value, historically loyal repeat buyer (11 purchases, ₹24,693 total spend) who has gone dormant for over 6 months (193 days). Despite strong past engagement, the prolonged inactivity has triggered a 60.75% churn probability, indicating a critical window before the customer permanently defects to a competitor.
+
+**Recommended Action:**
+Deploy a targeted ""We Miss You"" win-back campaign via SMS/Email combined with a 1-question feedback survey (e.g., ""What can we do better?"") to identify the root cause of their lapse while re-engaging them.
+
+**Retention Offer:**
+Provide a time-sensitive, high-value incentive: **""₹500 off your next order of ₹2,000 or more + Free Express Shipping""** (valid for 7 days). This aligns with their average historical order value (~₹2,244) and creates urgency to drive a immediate re-purchase.
+
+**Priority:**
+High"
+1382,570,1,153,0.792406555267856,High Risk,0,"Risk Assessment:
+Customer 1382 is a single-purchase customer who has been dormant for 570 days (over 1.5 years) with a very low historical spend of ₹153.00. Due to the combination of extreme inactivity, lack of established brand loyalty, and a 79.24% churn probability, this customer is effectively lost and represents a high churn risk.
+
+Recommended Action:
+Enroll the customer in an automated, low-cost win-back email sequence. Avoid high-cost direct interventions, as the customer's low historical lifetime value does not justify manual or high-budget marketing efforts.
+
+Retention Offer:
+Offer a ""Flat ₹50 OFF + Free Shipping"" coupon on a minimum order value of ₹300, valid for 7 days to create urgency while driving a higher basket value than their initial purchase.
+
+Priority:
+Low"
+9728,500,1,3260,0.6412969221556797,High Risk,0,"**Risk Assessment:**
+Customer 9728 is a single-purchase customer who has been inactive for 500 days. The combination of a single past transaction, zero brand engagement for over 16 months, and a 64.13% churn probability indicates the customer is effectively dormant and at high risk of permanent churn.
+
+**Recommended Action:**
+Enroll the customer in an automated, low-cost win-back email sequence to test for re-engagement without allocating heavy manual or ad spend resources.
+
+**Retention Offer:**
+₹500 off on a minimum purchase of ₹1,500, plus free shipping, valid for 7 days to create urgency.
+
+**Priority:**
+Low (While churn risk is high, the low historical lifetime value and extreme recency make high-cost retention efforts unviable; stick to automated, low-overhead outreach)."
+9786,95,11,29087,0.6315474961651587,High Risk,1,"**Risk Assessment:**
+Customer 9786 is a high-value, repeat buyer (11 purchases, ₹29,087 total spend) who has become inactive with no purchases in 95 days. This abrupt drop in engagement from an established customer accounts for the high churn probability (63.15%), signaling that they are on the verge of permanently defecting to a competitor.
+
+**Recommended Action:**
+Deploy an automated, multi-channel win-back campaign (personalized Email + WhatsApp message) highlighting new arrivals or replenishment items based on their previous purchase history.
+
+**Retention Offer:**
+Provide an exclusive, time-sensitive ""We Miss You"" offer: **₹500 off on the next purchase of ₹2,000 or more**, valid for 7 days.
+
+**Priority:**
+High"
+12461,36,11,31377,0.6285003437451612,High Risk,1,"**Risk Assessment:**  
+Customer 12461 is a high-value (₹31,377 total spend) and frequent (11 orders) repeat buyer whose purchasing momentum has stalled. A 36-day gap represents a significant deviation from their usual order cadence, driving a 62.85% churn probability. Losing this customer represents a major revenue risk.
+
+**Recommended Action:**  
+Trigger a personalized ""We Miss You"" re-engagement campaign via Email/SMS featuring product recommendations aligned with their past purchase history.
+
+**Retention Offer:**  
+Offer a high-tier incentive: **₹500 off on orders above ₹2,000 + Free Express Shipping**, valid for 7 days to create urgency.
+
+**Priority:**  
+High"
+13297,231,1,157,0.8259955434387417,High Risk,0,"Risk Assessment:
+Customer 13297 is at a high risk of churn (82.60%) due to prolonged inactivity (231 days since last purchase) and low historical engagement as a one-time buyer with a minimal initial spend of ₹157.00. 
+
+Recommended Action:
+Deploy an automated, low-cost ""We Miss You"" email and SMS re-engagement campaign featuring entry-level, high-rated products to encourage a second purchase.
+
+Retention Offer:
+Flat ₹50 discount + Free Shipping on their next order over ₹200.
+
+Priority:
+Low (High churn risk, but low Customer Lifetime Value makes manual or high-cost retention efforts inefficient)."
+14674,176,12,25597,0.6073605225082073,High Risk,1,"Risk Assessment:
+Customer 14674 is a high-value, previously loyal buyer (12 orders, ₹25,597 total spend) who has gone dormant for nearly six months (176 days). This sudden drop-off in activity from an established repeat purchaser drives the high churn probability (60.74%), placing them at severe risk of permanent defection.
+
+Recommended Action:
+Trigger an automated direct win-back campaign via Email and WhatsApp, delivering personalized product recommendations based on their past purchase history.
+
+Retention Offer:
+Provide a flat ₹500 discount on a minimum spend of ₹2,000, valid for the next 7 days to drive immediate action.
+
+Priority:
+High"
+15141,614,4,12868,0.6000810624262053,High Risk,0,"**Risk Assessment:**
+Customer 15141 is extremely dormant, with no purchases in 614 days (over 1.5 years). Although they demonstrated solid historical value—spending ₹12,868.00 across 4 orders (Average Order Value of ~₹3,217)—the prolonged inactivity drives their high churn probability of 60.01%. Without immediate re-engagement, this customer will be permanently lost.
+
+**Recommended Action:**
+Execute an automated ""Win-Back"" multi-channel campaign (Email + WhatsApp/SMS) targeting past purchase preferences, paired with a brief single-question survey to understand the reason for their extended lapse.
+
+**Retention Offer:**
+""We Miss You"" Exclusive Voucher: Flat ₹750 off on a minimum purchase of ₹2,500 plus free express shipping, valid for 14 days.
+
+**Priority:**
+High"
+19491,84,11,17665,0.6096434508686954,High Risk,1,"**Risk Assessment:**
+Customer 19491 is a high-value, repeat customer (11 purchases, ₹17,665.00 total spend) who is disengaging, with no activity for nearly three months (84 days). Given their strong historical purchasing pattern, this sudden drop in recency elevates their churn probability to a critical 60.96%.
+
+**Recommended Action:**
+Trigger an automated ""We Miss You"" win-back email and SMS workflow featuring personalized product recommendations based on their previous purchase history.
+
+**Retention Offer:**
+Provide an exclusive, time-sensitive ""Welcome Back"" discount of ₹500 off their next purchase of ₹2,000 or more, plus free express shipping, valid for 7 days.
+
+**Priority:**
+High"
+21767,80,10,28639,0.6603015969132852,High Risk,1,"**Risk Assessment:**
+Customer 21767 is a high-value, repeat buyer (10 orders, ₹28,639 total spend) who has gone dormant for 80 days. This sudden lapse in historical purchasing behavior has pushed their churn probability to 66.03%, indicating they are on the verge of permanently abandoning the platform if not re-engaged immediately.
+
+**Recommended Action:**
+Trigger a personalized ""We Miss You"" automated win-back campaign across WhatsApp and Email, highlighting curated product recommendations based on their past purchase categories.
+
+**Retention Offer:**
+A ₹500 discount on a minimum spend of ₹2,500 + Free Express Shipping, valid for the next 7 days.
+
+**Priority:**
+High"
